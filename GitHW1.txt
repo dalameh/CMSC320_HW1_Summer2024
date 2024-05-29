@@ -1,0 +1,7 @@
+Why are you interested in taking CMSC320?
+
+I am interested in taking CMSC320 because I am very interested in understanding data analytics. Being able to extract data from a source, and then
+being able to conduct a wide range of analyses on it, is very important in many industries. Also, being able to analyze and extract some sort of 
+conclusion is a very powerful tool and skill that I would love to learn using Python. I am also interested in understanding how the topics covered 
+in this course connect to machine learning, which I hope to learn through this class. This class is also a required course of the Data Science CMSC 
+track, which makes this class very important as a foundation for other courses I will take in the future. 
